@@ -1,7 +1,8 @@
 name: TotemCooldown
 version: '${project.version}'
 main: me.youhavetrouble.totemcooldown.TotemCooldown
-api-version: 1.19
+api-version: 1.13
 authors: [YouHaveTrouble]
+folia-supported: true
 description: Set cooldown for totem of undying
 website: https://youhavetrouble.me
