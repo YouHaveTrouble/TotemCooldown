@@ -1,0 +1,7 @@
+name: TotemCooldown
+version: '${project.version}'
+main: me.youhavetrouble.totemcooldown.TotemCooldown
+api-version: 1.19
+authors: [YouHaveTrouble]
+description: Set cooldown for totem of undying
+website: https://youhavetrouble.me
