@@ -1,5 +1,5 @@
-#amount of ticks to set the cooldown to (1 second = 20 ticks)
+# amount of ticks to set the cooldown to (1 second = 20 ticks)
 totem-cooldown-ticks: 100
 
-#whether to reset the cooldown on death
+# whether to reset the cooldown on death
 resets-on-death: true
